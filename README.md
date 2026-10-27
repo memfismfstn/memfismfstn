@@ -6,25 +6,17 @@
 
 ### 💻 // `TECH STACK`
 
-<p align="left">
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Rust" />
-</p>
+![C](https://shields.io) ![C++](https://shields.io) ![Python](https://shields.io) ![Rust](https://shields.io)
 
 ---
 
 ### 📊 // `THE VOID METRICS`
 
-<p align="center">
-  <img src="https://vercel.app" width="49%" alt="GitHub Stats" />
-  <img src="https://vercel.app" width="49%" alt="Top Languages" />
-</p>
+![GitHub Stats](https://vercel.app)
 
-<p align="center">
-  <img src="https://komarev.com" alt="Views" />
-</p>
+![Top Languages](https://vercel.app)
+
+![Views](https://komarev.com)
 
 ---
 

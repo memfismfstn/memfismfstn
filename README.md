@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://pinimg.com" width="100%" alt="Void Aesthetic" />
+</p>
+
 # 🫀 // MEMFIS.SYS — ИССЛЕДОВАТЕЛЬ ЦИФРОВОЙ ПУСТОТЫ
 * ⛓️ **Локация:** Внутри твоей системы
 * 🧠 **Статус:** Ищу баги, 1000-7 и смысл в бесконечных коммитах
@@ -12,11 +16,14 @@
 
 ### 📊 // `THE VOID METRICS`
 
-![GitHub Stats](https://vercel.app)
+<p align="center">
+  <img src="https://vercel.app" width="49%" alt="GitHub Stats" />
+  <img src="https://vercel.app" width="49%" alt="Top Languages" />
+</p>
 
-![Top Languages](https://vercel.app)
-
-![Views](https://komarev.com)
+<p align="center">
+  <img src="https://komarev.com" alt="Views" />
+</p>
 
 ---
 

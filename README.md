@@ -35,19 +35,17 @@
 
 ### 💻 // TECH STACK 
 ```diff
-+ [C]      ===========================> Core
-+ [C++]    ===========================> LowLevel
++ [C#]    ===========================> core
 + [Python] ===========================> Scripts
-+ [Rust]   ===========================> The Void
 ```
 
 ---
 
 ### 📊 // THE VOID STATUS
 ```diff
-- Commits:     [ С И С Т Е М Н Ы Й  С Б О Й ]
-- Languages:   [ К И Б Е Р П А Н К  У М Е Р ]
-- Total Views: [ С Т А Т И С Т И К А  У Т Е Р Я Н А ]
+- Commits:     [ С Л И Ш К О М  М Н О Г О, Я  Н Е  В Ы В О Ж У ]
+- Languages:   [ ГУЛЬСОКЙ ]
+- Total Views: [ true ghoul. ]
 - Dead Inside: [ 1000 - 7 ]
 ```
 

@@ -1,5 +1,3 @@
-<!-- 💀 Вставь свой ASCII-арт сюда, в <pre>, если хочешь оставить его над баннером -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0000,100:8b0000&height=240&section=header&text=memfis.sys&fontSize=72&fontColor=e50000&fontAlignY=38&animation=fadeIn&desc=ИССЛЕДОВАТЕЛЬ%20ЦИФРОВОЙ%20ПУСТОТЫ&descSize=20&descColor=b0b0b0&descAlignY=60" width="100%" />
@@ -17,7 +15,7 @@
 
 ---
 
-## 🩸 ПРОФАЙЛ
+## 🩸 ПРОФАЙЛ ЙОУ
 
 ```diff
 - name:      Linka / memfismfstn
@@ -29,7 +27,7 @@
 
 ---
 
-## 🕷️ ARSENAL
+## ARSENAL
 
 <div align="center">
 
@@ -56,14 +54,14 @@
 
 ---
 
-## 🔪 ЧТО Я ДЕЛАЮ
+##  ЧТО Я ДЕЛАД
 
-- 🏭 **Бэкенд на работе** — внутренние сервисы на .NET и Python
-- 🎮 **Kvazar Games** — разработка сайта
-- 🧱 **Свой Minecraft-сервер** на Paper — кастомные плагины и экономика
-- 🤖 **Джарвис** — голосовой ассистент на Python: wake word, память в SQLite, обучаемые команды
-- 🎬 **Видеоплатформа** на .NET-микросервисах (загрузка → энкодинг → каталог)
-- 📅 **PracticeBooking** — .NET-проект полного цикла
+-  **Бэкенд на работе** — внутренние сервисы на .NET и Python
+-  **Kvazar Games** — разработка сайта
+-  **Свой Minecraft-сервер** на Paper — кастомные плагины и экономика
+-  **Джарвис** — голосовой ассистент на Python: wake word, память в SQLite, обучаемые команды
+-  **Видеоплатформа** на .NET-микросервисах (загрузка → энкодинг → каталог)
+-  **PracticeBooking** — .NET-проект полного цикла
 
 ---
 

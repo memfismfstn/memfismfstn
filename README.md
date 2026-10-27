@@ -46,7 +46,7 @@
 
 ### 💻 // TECH STACK 
 ```diff
-+ [C#]    ===========================> core
++ [C#]     ===========================> core
 + [Python] ===========================> Scripts
 ```
 
@@ -55,9 +55,9 @@
 ### 📊 // THE VOID STATUS
 ```diff
 - Commits:     [ С Л И Ш К О М  М Н О Г О, Я  Н Е  В Ы В О Ж У ]
-- Languages:   [ ГУЛЬСОКЙ ]
+- Languages:   [ г у л ь с к о й ]
 - Total Views: [ true ghoul. ]
-- Dead Inside: [ 1000 - 7 ]
+- Dead Inside: [ 1000 - 7, сколько будет? ]
 ```
 
 ---
